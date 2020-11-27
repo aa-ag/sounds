@@ -7,7 +7,7 @@ src = 'bensound.wav'
 
 '''
 Would to work in MacOS except after installling
-"PyObjC" via `pip` per https://github.com/TaylorSMarks/playsound/issues/51
+"PyObjC" via `pip` per https://github.com/TaylorSMarks/playsound
 '''
 
 #--- converting MP3 into .wav ---#
